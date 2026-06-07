@@ -12,7 +12,7 @@ title: 作品集
 - 玩家流失节点分析与优化
 - 数据驱动的投放策略调整
 
-📄 [查看文档](./assets/docs/开放世界资源投放设计.pdf)
+📄 [查看文档](./assets/docs/open-world-resource-design.pdf)
 
 ---
 
@@ -23,7 +23,7 @@ title: 作品集
 - 任务与经济系统耦合关系
 - 玩家长线留存设计拆解
 
-📄 [查看文档](./assets/docs/三角洲局外任务系统拆解案.pdf)
+📄 [查看文档](./assets/docs/delta-force-quest-system.pdf)
 
 ---
 
@@ -34,7 +34,7 @@ title: 作品集
 - 阵容互补性与体验循环
 - 与同类型竞品对比
 
-📄 [查看文档](./assets/docs/无畏契约英雄系统拆解案.pdf)
+📄 [查看文档](./assets/docs/valorant-agent-system.pdf)
 
 ---
 
