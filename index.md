@@ -19,7 +19,7 @@ title: 首页
 
 ## 📂 作品 & 项目
 
-- [开放世界资源投放设计](./projects.html) — 大世界资源投放体系与流失率优化方案
+- [开放世界资源投放设计](/assets/docs/SOC-doc.pdf) — 大世界资源投放体系与流失率优化方案
 - [三角洲行动系统拆解案](/assets/docs/delta-force-quest-system.pdf)— 搜打撤品类局外循环深度分析
 - [无畏契约英雄系统拆解](/assets/docs/valorant-agent-system.pdf) — 角色设计与四定位闭环逻辑
 - 🚧 游戏Demo — 制作中，敬请期待
